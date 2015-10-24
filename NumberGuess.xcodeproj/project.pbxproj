@@ -14,6 +14,7 @@
 		031326501BDB060400C525AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0313264E1BDB060400C525AB /* LaunchScreen.storyboard */; };
 		0313265B1BDB060400C525AB /* NumberGuessTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0313265A1BDB060400C525AB /* NumberGuessTests.swift */; };
 		031326661BDB060400C525AB /* NumberGuessUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 031326651BDB060400C525AB /* NumberGuessUITests.swift */; };
+		031326741BDB073200C525AB /* whatisinyourmind.png in Resources */ = {isa = PBXBuildFile; fileRef = 031326731BDB073200C525AB /* whatisinyourmind.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		031326611BDB060400C525AB /* NumberGuessUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NumberGuessUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		031326651BDB060400C525AB /* NumberGuessUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberGuessUITests.swift; sourceTree = "<group>"; };
 		031326671BDB060400C525AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		031326731BDB073200C525AB /* whatisinyourmind.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whatisinyourmind.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		031326441BDB060400C525AB /* NumberGuess */ = {
 			isa = PBXGroup;
 			children = (
+				031326731BDB073200C525AB /* whatisinyourmind.png */,
 				031326451BDB060400C525AB /* AppDelegate.swift */,
 				031326471BDB060400C525AB /* ViewController.swift */,
 				031326491BDB060400C525AB /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				031326501BDB060400C525AB /* LaunchScreen.storyboard in Resources */,
+				031326741BDB073200C525AB /* whatisinyourmind.png in Resources */,
 				0313264D1BDB060400C525AB /* Assets.xcassets in Resources */,
 				0313264B1BDB060400C525AB /* Main.storyboard in Resources */,
 			);
